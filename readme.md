@@ -182,5 +182,3 @@ task-manager/
 ![Task List](screenshots/task_list.png)
 ![Update Task](screenshots/update.png)
 
-## Video Demo
-[Watch Demo Video](videos/Task_Manager.mp4)
